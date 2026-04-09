@@ -132,8 +132,11 @@ If you were previously using Django `5.1.2` on Python `3.14`, upgrading and rebu
 
 ## Live Demo
 
-[Open Live App](https://delivery-lane-management-frontend.onrender.com/login)
+[Open Live App](https://delivery-lane-management.onrender.com)
+
+[Alternate Frontend URL](https://delivery-lane-management-frontend.onrender.com)
 
 [Backend API](https://delivery-lane-management-2.onrender.com/api)
+
 
 
