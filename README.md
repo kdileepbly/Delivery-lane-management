@@ -129,3 +129,10 @@ This project is pinned to versions intended to support Python 3.14:
 - django-cors-headers `4.9.0`
 
 If you were previously using Django `5.1.2` on Python `3.14`, upgrading and rebuilding the virtual environment is recommended.
+
+## Live Demo
+
+[Open Live App](https://YOUR-FRONTEND-URL.onrender.com)
+
+[Backend API](https://delivery-lane-management-2.onrender.com/api)
+
