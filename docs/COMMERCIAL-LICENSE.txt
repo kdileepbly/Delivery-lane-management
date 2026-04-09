@@ -1,0 +1,20 @@
+TaskForge Commercial Use Template
+
+This file is a starter template and is not legal advice. Replace it with your own finalized terms before selling.
+
+Buyer may:
+- Use the source code for personal and commercial projects
+- Modify the source code for client work
+- Deploy the project for a business they own or manage
+
+Buyer may not:
+- Resell the source code as-is without meaningful modification, unless seller explicitly grants resale rights
+- Redistribute the original source package for free
+- Claim authorship of the original product without attribution if attribution is required by the seller
+
+Seller should customize:
+- Number of allowed end products
+- Whether redistribution is allowed
+- Whether attribution is required
+- Support duration
+- Refund policy
